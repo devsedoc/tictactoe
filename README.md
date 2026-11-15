@@ -2,6 +2,8 @@
 
 A simple and interactive Tic-Tac-Toe game built using **HTML, CSS, and JavaScript**.
 
+**Live site:** [https://devsedoc.github.io/tictactoe/](https://devsedoc.github.io/tictactoe/)
+
 ## Features
 
 * Two-player Tic-Tac-Toe game
